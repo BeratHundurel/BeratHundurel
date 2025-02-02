@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me***
 I'm a full-stack web developer from Istanbul, Turkey, currently studying mechatronics engineering at Bilgi University. My journey with computers began with playing games like so many people and eventually evolved into a passion for programming. <br/>
 <br/>
-I love exploring new technologies, and the idea of building software to improve developer experiences truly resonates with me. This passion has driven me to build several projects aimed at enhancing developer workflows.
+I love exploring new technologies, and the idea of building software to improve experiences truly resonates with me.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berat-hündürel-1197b9253) 
